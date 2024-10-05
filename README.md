@@ -1,5 +1,5 @@
 ### - ⚡ Fun fact: Live in Thailand
-### - 😄 Pronouns: She/Her (หบอก) He/Him
+### - 😄 Pronouns: She/Her (หยอก) He/Him
 <!--
 **SNYSAL/SNYSAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
