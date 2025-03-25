@@ -1,6 +1,6 @@
 ### - ⚡ Fun fact: Sometime Online!
 ### - 😄 Pronouns: They/Them
-### - 🌱 I’m currently learning About On 
+### - 🌱 I’m currently 
 <!--
 **SNYSAL/SNYSAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
